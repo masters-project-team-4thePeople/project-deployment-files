@@ -10,8 +10,8 @@
 
 ### Project Flow Diagram
 
-![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Diagram.png)
+![Diagram](https://github.com/masters-project-team-4thePeople/project-deployment-files/tree/main/screenshots/Diagram.png)
 
 ### MLOps Project Flow Diagram
 
-![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/MLOpsWorkflow.png)
+![Diagram](https://github.com/masters-project-team-4thePeople/project-deployment-files/tree/main/screenshots/MLOpsWorkflow.png)
