@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: masters_project
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: masters_project_app
+  template:
+    metadata:
+      labels:
+        app: masters_project_app
+    spec:
+      containers:
+      - name: cv-app
+        image: gcr.io/masters_project_app/webapp:v1
+        ports:
+        - containerPort: 8501

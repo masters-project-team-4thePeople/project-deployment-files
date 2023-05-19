@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/aryanjadon/Desktop/Assignments/Project-Special-Topics/notebooks/mlruns/0/ed5eaef9ba18498a97d6d94b25a5ae29/artifacts
+end_time: 1671087599572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed5eaef9ba18498a97d6d94b25a5ae29
+run_name: gentle-koi-50
+run_uuid: ed5eaef9ba18498a97d6d94b25a5ae29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671087412999
+status: 3
+tags: []
+user_id: aryanjadon
